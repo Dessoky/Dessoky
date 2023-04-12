@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dessoky
 - 👀 I’m interested in Python developing 
-- 🌱 I’m currently learning Selenium module
-- 💞️ I’m looking to collaborate on Advanced projects
+- 🌱 I’m currently working hard on Back-End developing by Django Rest Framework, written in TDD.
+- 💞️ I’m looking to collaborate on Advanced backend development
 - 📫 How to reach me m.eldesouki91@gmail.com
 
 <!---
